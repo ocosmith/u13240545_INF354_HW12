@@ -7,9 +7,11 @@
 	<body>
 		<h1>INF 354 Homework 12</h1>
 		<?php
+		$name = "My name is: ";
+	        $num = "My student number is: ";    
+	        echo $name . "Sean P Steenkamp.\n<br />\n<br />". $num . "13300891";
 		echo "<p>David Sobey 13240545</p>";
 		echo "<p>Jarrod Germs 13063643</p>";
-		
 		?>
 	</body>
 </html>
