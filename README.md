@@ -1,3 +1,3 @@
 # u13240545_INF354_HW12
 
-Hello
+Go to homework to view the homework :)
