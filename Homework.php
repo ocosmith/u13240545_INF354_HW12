@@ -12,6 +12,7 @@
 	        echo $name . "Sean P Steenkamp.  " . $num . "13300891";
 		echo "<p>David Sobey 13240545</p>";
 		echo "<p>Jarrod Germs 13063643</p>";
+		echo "<p>O'Connor Smith 13053796</p>";
 		?>
 	</body>
 </html>
