@@ -7,7 +7,7 @@
 	<body>
 		<h1>INF 354 Homework 12</h1>
 		<?php
-		echo "<p>David Sobey 13240545</p>";
+		echo "<p>Jarrod Germs 13063643</p>";
 		
 		?>
 	</body>
